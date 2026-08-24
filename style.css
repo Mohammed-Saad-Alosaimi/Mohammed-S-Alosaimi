@@ -240,6 +240,448 @@ img {
 
 }
 
+
+/* =========================================
+   ABOUT PAGE
+========================================= */
+
+.about-page {
+
+    background: var(--background);
+
+    padding: 80px 0 120px;
+}
+
+
+/* =========================================
+   FULL WIDTH IMAGE
+========================================= */
+
+.about-image-full {
+
+    width: 100%;
+
+    height: 680px;
+
+    overflow: hidden;
+
+    margin-bottom: 90px;
+
+    background: var(--black);
+}
+
+
+.about-image-full img {
+
+    width: 100%;
+
+    height: 100%;
+
+    object-fit: cover;
+
+    display: block;
+
+    transition: transform 0.8s ease;
+}
+
+
+.about-image-full:hover img {
+
+    transform: scale(1.025);
+}
+
+
+/* =========================================
+   INTRODUCTION
+========================================= */
+
+.about-text-block {
+
+    max-width: 850px;
+
+    padding: 30px 0 120px;
+}
+
+
+.about-text-block h1 {
+
+    font-size: clamp(55px, 9vw, 110px);
+
+    font-weight: 800;
+
+    letter-spacing: -0.07em;
+
+    line-height: 0.95;
+
+    margin-bottom: 30px;
+}
+
+
+.about-text-block h1 span {
+
+    display: block;
+
+    color: #999999;
+}
+
+
+.about-text-block h2 {
+
+    font-size: clamp(20px, 3vw, 30px);
+
+    font-weight: 500;
+
+    color: var(--gray-dark);
+
+    margin-bottom: 30px;
+}
+
+
+.about-text-block > p:last-child {
+
+    max-width: 700px;
+
+    color: var(--gray-dark);
+
+    font-size: 18px;
+
+    line-height: 1.7;
+}
+
+
+/* =========================================
+   SECOND IMAGE
+========================================= */
+
+.about-image-wide {
+
+    width: 100%;
+
+    height: 560px;
+
+    overflow: hidden;
+
+    margin-bottom: 130px;
+
+    background: var(--black);
+}
+
+
+.about-image-wide img {
+
+    width: 100%;
+
+    height: 100%;
+
+    object-fit: cover;
+
+    display: block;
+
+    transition: transform 0.8s ease;
+}
+
+
+.about-image-wide:hover img {
+
+    transform: scale(1.025);
+}
+
+
+/* =========================================
+   SPLIT TEXT
+========================================= */
+
+.about-split {
+
+    display: grid;
+
+    grid-template-columns: 1fr 1fr;
+
+    gap: 100px;
+
+    padding: 20px 0 140px;
+
+    max-width: 1100px;
+}
+
+
+.about-split h2 {
+
+    font-size: clamp(42px, 5vw, 70px);
+
+    line-height: 1;
+
+    letter-spacing: -0.05em;
+
+    max-width: 550px;
+}
+
+
+.about-copy {
+
+    max-width: 600px;
+
+    color: var(--gray-dark);
+
+    font-size: 16px;
+
+    line-height: 1.8;
+
+    padding-top: 10px;
+}
+
+
+.about-copy p {
+
+    margin-bottom: 25px;
+}
+
+
+/* =========================================
+   THIRD IMAGE
+========================================= */
+
+.about-image-last {
+
+    margin-bottom: 140px;
+}
+
+
+/* =========================================
+   EXPERTISE
+========================================= */
+
+.about-expertise {
+
+    display: grid;
+
+    grid-template-columns: 0.8fr 1.2fr;
+
+    gap: 100px;
+
+    padding: 30px 0 140px;
+
+    border-bottom: 1px solid var(--border);
+}
+
+
+.about-expertise h2 {
+
+    font-size: clamp(40px, 5vw, 65px);
+
+    line-height: 1;
+
+    letter-spacing: -0.05em;
+
+    max-width: 500px;
+}
+
+
+.expertise-list {
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    align-content: flex-start;
+
+    gap: 10px;
+}
+
+
+.expertise-list span {
+
+    border: 1px solid var(--border);
+
+    padding: 13px 18px;
+
+    font-size: 12px;
+
+    font-weight: 600;
+
+    background: var(--white);
+
+    transition: var(--transition);
+}
+
+
+.expertise-list span:hover {
+
+    background: var(--black);
+
+    color: var(--white);
+
+    border-color: var(--black);
+}
+
+
+/* =========================================
+   FINAL STATEMENT
+========================================= */
+
+.about-final {
+
+    max-width: 900px;
+
+    padding: 150px 0 50px;
+}
+
+
+.about-final h2 {
+
+    font-size: clamp(48px, 7vw, 90px);
+
+    line-height: 0.98;
+
+    letter-spacing: -0.06em;
+
+    margin-bottom: 30px;
+}
+
+
+.about-final > p:not(.eyebrow) {
+
+    max-width: 650px;
+
+    color: var(--gray-dark);
+
+    font-size: 17px;
+
+    line-height: 1.7;
+
+    margin-bottom: 35px;
+}
+
+
+/* =========================================
+   MOBILE
+========================================= */
+
+@media (max-width: 900px) {
+
+    .about-page {
+
+        padding: 50px 0 80px;
+    }
+
+
+    .about-image-full {
+
+        height: 500px;
+
+        margin-bottom: 60px;
+    }
+
+
+    .about-text-block {
+
+        padding-bottom: 80px;
+    }
+
+
+    .about-image-wide {
+
+        height: 450px;
+
+        margin-bottom: 80px;
+    }
+
+
+    .about-split {
+
+        grid-template-columns: 1fr;
+
+        gap: 40px;
+
+        padding-bottom: 90px;
+    }
+
+
+    .about-image-last {
+
+        margin-bottom: 90px;
+    }
+
+
+    .about-expertise {
+
+        grid-template-columns: 1fr;
+
+        gap: 45px;
+
+        padding-bottom: 90px;
+    }
+
+
+    .about-final {
+
+        padding-top: 100px;
+    }
+
+}
+
+
+@media (max-width: 650px) {
+
+    .about-page {
+
+        padding-top: 30px;
+    }
+
+
+    .about-image-full {
+
+        height: 420px;
+
+        margin-bottom: 50px;
+    }
+
+
+    .about-text-block h1 {
+
+        font-size: 55px;
+    }
+
+
+    .about-text-block h2 {
+
+        font-size: 21px;
+    }
+
+
+    .about-text-block > p:last-child {
+
+        font-size: 16px;
+    }
+
+
+    .about-image-wide {
+
+        height: 360px;
+
+        margin-bottom: 70px;
+    }
+
+
+    .about-split h2 {
+
+        font-size: 45px;
+    }
+
+
+    .about-expertise h2 {
+
+        font-size: 45px;
+    }
+
+
+    .about-final h2 {
+
+        font-size: 50px;
+    }
+
+}
+
 /* =========================================
    TYPOGRAPHY
 ========================================= */
