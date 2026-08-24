@@ -1,2 +1,58 @@
 # Mohammed-S-Alosaimi
-Professional portfolio of Mohammed Saud Alosaimi, Marketing &amp; Corporate Communications Specialist, showcasing marketing projects, professional experience, academic work, and creative design.
+Marketing and Corporate Communications professional with experience in marketing strategy, B2B marketing, corporate communication, brand development, digital transformation, customer experience, and creative design.
+
+This portfolio presents a selection of my professional projects, strategic work, creative outputs, academic achievements, and career experience.
+
+<img width="1920" height="1080" alt="Mrasim Marketing B2B Partnership Deck" src="https://github.com/user-attachments/assets/63384e4f-8199-4e38-8bba-f775bc54cd2f" />
+
+
+
+# About Me
+
+I am a marketing and communications professional passionate about connecting strategy, creativity, communication, and business objectives.
+
+
+
+My experience spans marketing planning and execution, corporate communications, brand development, B2B marketing, customer relationship management, digital transformation, and visual communication.
+<img width="1600" height="1131" alt="WhatsApp Image 2026-04-25 at 11 50 09 AM (1)" src="https://github.com/user-attachments/assets/42e30a39-fa2c-4ed9-ab55-0caf31c3abaf" />
+<img width="1178" height="825" alt="Screenshot 2026-08-24 134512" src="https://github.com/user-attachments/assets/07940c16-707e-43ed-b94f-1870504efbfd" />
+
+
+
+# Key Highlights
+- Marketing strategy and action planning
+- B2B marketing and corporate communications
+- Brand development and positioning
+- Integrated marketing campaigns
+- Digital transformation and CRM development
+- Customer experience and communication
+- Marketing content and visual communication
+- Graphic design and creative direction
+- Marketing research and competitive analysis
+- Cross-functional project coordination
+
+
+
+
+<img width="563" height="1080" alt="صور الظهور الاعلامي" src="https://github.com/user-attachments/assets/79191c6b-c56c-4e7d-8aa0-19b62195f769" />
+
+
+# Recent Projects:
+1- **Corporate Development and Digital Transformation Program**
+- Boosting operational efficiency.
+- Accelerating digital transformation.
+- Optimizing operational processes.
+- Enhancing data quality.
+- leveraging the full capabilities of the Odoo system.
+
+**Concept & Prepared by:**
+
+
+Mohammad Saad Al-Osaimi
+
+
+
+
+<img width="718" height="935" alt="Screenshot 2026-08-20 150358" src="https://github.com/user-attachments/assets/d8cb0092-4afa-4f32-bad3-4561e380b055" />
+
+
